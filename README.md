@@ -14,7 +14,7 @@ This is the official github page for [ARB Bot.](https://discord.com/oauth2/autho
 | Moderation Commands | [![Click](https://img.shields.io/badge/Click%20Here-%F0%9F%94%98%20-darkgrey?style=for-the-badge)](#moderation-commands) |
 | Economy Commands| [![Click](https://img.shields.io/badge/Click%20Here-%F0%9F%94%98%20-darkgrey?style=for-the-badge)](#economy-commands) |
 | Leveling System| [![Click](https://img.shields.io/badge/Click%20Here-%F0%9F%94%98%20-darkgrey?style=for-the-badge)](#leveling-commands) |
-| Ticket System| [![Click](https://img.shields.io/badge/Click%20Here-%F0%9F%94%98%20-darkgrey?style=for-the-badge)](#ticketing-commands) |
+| Ticket System| [![Click](https://img.shields.io/badge/Click%20Here-%F0%9F%94%98%20-darkgrey?style=for-the-badge)](#ticket-commands) |
 | Party Creation Module| [![Click](https://img.shields.io/badge/Click%20Here-%F0%9F%94%98%20-darkgrey?style=for-the-badge)](#party-commands) |
 ---
 ### Moderation Commands
