@@ -35,11 +35,3 @@ This ticketing system allows users to make tickets to contact staff or to get su
 ---
 ### Party Commands
 The party system is a unique system that allows user to create temporary party vc channels.
-
-1. test
-2. test
-3. testa
-4. 3a
-5. 5a
-6. 5a
-7. 
