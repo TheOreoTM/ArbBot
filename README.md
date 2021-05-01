@@ -9,5 +9,5 @@ Official github page for YarbBot
 ---
 | Support Server | Documentation | Patch Notes
 | :---: | :--- | :---
-| [![Discord](https://img.shields.io/discord/519734247519420438.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/theYzDq) | [![Documentation](https://img.shields.io/badge/Documentation-📃-success?style=for-the-badge)](https://github.com/TheOreoTM/ArbBot/blob/main/Documentation.md) | [![PatchNotes](https://img.shields.io/badge/Current%20Version-V1.0-success?style=for-the-badge)](https://github.com/TheOreoTM/ArbBot/blob/main/PatchNotes.md)
+| [![Discord](https://img.shields.io/discord/519734247519420438.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/BY4Rb32JFK) | [![Documentation](https://img.shields.io/badge/Documentation-📃-success?style=for-the-badge)](https://github.com/TheOreoTM/ArbBot/blob/main/Documentation.md) | [![PatchNotes](https://img.shields.io/badge/Current%20Version-V1.0-success?style=for-the-badge)](https://github.com/TheOreoTM/ArbBot/blob/main/PatchNotes.md)
 
