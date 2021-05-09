@@ -1,5 +1,8 @@
+# 5/9/2021
+By some miracle the bot has been added to [top.gg.](https://top.gg)
+
 # 5/5/2021
-Bot has been came out of alpha and is now finished available for everyone
+Bot has been came out of alpha and is now finished available for everyone.
 
 # 20/4/2021
-Bot has been added to github
+Bot has been added to github.
