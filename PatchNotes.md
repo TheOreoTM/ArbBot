@@ -1,3 +1,6 @@
+# 5/10/2021
+Added new covid stat command which can be run using `!cov <country alpha code>`
+
 # 5/9/2021
 By some miracle the bot has been added to [top.gg.](https://top.gg)
 
