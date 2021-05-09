@@ -1,5 +1,5 @@
 # YarbBot
-Official github page for YarbBot
+Official github page for YarbBot (THIS IS STILL A WIP)
 
 ![Status](https://img.shields.io/badge/Current%20Status-Developing-important?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Current%20Version-V1.0-blue?style=for-the-badge)
