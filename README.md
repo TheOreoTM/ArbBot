@@ -1,4 +1,5 @@
-# YarbBot [![Discord Bots](https://top.gg/api/widget/status/659980150946922497.svg?noavatar=true)](https://top.gg/bot/659980150946922497)
+# YarbBot 
+[![Discord Bots](https://top.gg/api/widget/status/659980150946922497.svg?noavatar=true)](https://top.gg/bot/659980150946922497)
 Official github page for YarbBot (THIS IS STILL A WIP)
 
 ![Status](https://img.shields.io/badge/Current%20Status-Developing-important?style=for-the-badge)
