@@ -1,3 +1,6 @@
+# 5/13/2021
+Implemented a bandage fix for the issue with the message logging system that crashes the bot after about an hour.
+
 # 5/10/2021
 Added new covid stat command which can be run using `!cov <country alpha code>`
 
