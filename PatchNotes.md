@@ -1,3 +1,6 @@
+# 5/15/2021
+Added `!urban <word>` command, so you can search up the meanings of words from yarb.
+
 # 5/13/2021
 Implemented a bandage fix for the issue with the message logging system that crashes the bot after about an hour.
 
