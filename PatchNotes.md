@@ -1,3 +1,10 @@
+# 5/19/2021 - 5/30/2021
+Added 4 brand new commands
+- `!snipe` command to snipe the latest message that was deleted __in the server.__
+- `!color` command to customize your leveling bars color
+- `!bg` command to change the background of the leveling card to whatever you want.
+- `!chatlog` sends all the messages that the bot has logged.
+
 # 5/15/2021
 Added `!urban <word>` command, so you can search up the meanings of words from yarb.
 
