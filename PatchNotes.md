@@ -1,10 +1,11 @@
 # 5/19/2021 - 5/30/2021
-Added 5 brand new commands
+Added 6 brand new commands
 - `!snipe` command to snipe the latest message that was deleted.
 - `!color` command to customize your leveling bars color.
 - `!bg` command to change the background of the leveling card to whatever you want.
 - `!chatlog` sends all the messages that the bot has logged.
 - `!profile` shows your profile which includes various stats of your time with yarb.
+- `purge` bulk delete your messages. 
 
 # 5/15/2021
 Added `!urban <word>` command, so you can search up the meanings of words from yarb.
