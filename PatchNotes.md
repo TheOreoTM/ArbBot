@@ -1,6 +1,6 @@
 # 5/19/2021 - 5/30/2021
 Added 5 brand new commands
-- `!snipe` command to snipe the latest message that was deleted *in the server*
+- `!snipe` command to snipe the latest message that was deleted.
 - `!color` command to customize your leveling bars color.
 - `!bg` command to change the background of the leveling card to whatever you want.
 - `!chatlog` sends all the messages that the bot has logged.
