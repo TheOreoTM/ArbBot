@@ -1,5 +1,5 @@
 # **Gir - A Discord Bot** 
-This is the official github page for [YARB Bot.](https://discord.com/oauth2/authorize?client_id=659980150946922497&scope=bot&permissions=8586788087) This page contains all the documentation required to setup the bot properly and all the commands and how to use them. If you are still confused after reading the docs feel free to join the support server.
+This is the official github page for [Gir.](https://discord.com/oauth2/authorize?client_id=659980150946922497&scope=bot&permissions=8586788087) This page contains all the documentation required to setup the bot properly and all the commands and how to use them. If you are still confused after reading the docs feel free to join the support server.
 | Support Server |
 | :---: |
 |[![Discord](https://img.shields.io/discord/836198903611260988.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/m5RYsDSngD)|
